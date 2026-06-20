@@ -1,4 +1,4 @@
-<img>SOON</img>
+<img>Image is coming soon bc bc</img>
 
 # REMIND ME - Remind Yourself!
 
