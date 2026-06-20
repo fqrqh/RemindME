@@ -1,0 +1,3 @@
+pip install time
+pip install config
+pip install plyer 
