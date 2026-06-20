@@ -1,4 +1,4 @@
-# REMIND ME
+# REMIND ME - Remind Yourself!
 
 RemindME is a Small little program written in python that Let you choose How and When you can be reminded
 
