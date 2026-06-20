@@ -1,4 +1,4 @@
-<img>https://raw.githubusercontent.com/fqrqh/RemindME/refs/heads/main/image.ico</img>
+<img>SOON</img>
 
 # REMIND ME - Remind Yourself!
 
